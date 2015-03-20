@@ -8,8 +8,8 @@
  * located in the functions.php file.
  *
  * @package 	WordPress
- * @subpackage 	University Village Theme
- * @since 		University Village Theme 1.0
+ * @subpackage 	Wordpress Boilerplate Theme
+ * @since 		Wordpress Boilerplate Theme 1.0
  */
 ?>
 <div id="comments">

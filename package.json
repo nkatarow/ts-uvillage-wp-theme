@@ -1,10 +1,28 @@
 {
-  "name": "foundation-libsass-template",
+  "name": "wordpress-boilerplate-theme",
+  "description": "Coming soon...",
   "version": "0.0.1",
+  "private": true,
+  "contributors": [
+    {
+      "name": "Nick Katarow (http://nkatarow.net)"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/nkatarow-turnstyle/wordpress-boilerplate-theme"
+  },
+  "dependencies": {
+    "grunt": "~0.4.4",
+    "grunt-cli": "~0.1.13",
+    "grunt-shell": "~0.7.0",
+    "grunt-contrib-sass": "~0.7.3",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
   "devDependencies": {
-    "node-sass": "~1.2.3",
-    "grunt": "~0.4.5",
-    "grunt-contrib-watch": "~0.6.1",
-    "grunt-sass": "~0.17.0"
+    "grunt": "^0.4.4"
   }
 }

@@ -6,8 +6,8 @@
 	 * Starkers Utilities Class v.1.1
 	 *
 	 * @package 	WordPress
-	 * @subpackage 	University Village Theme
-	 * @since 		University Village Theme 1.0
+	 * @subpackage 	Wordpress Boilerplate Theme
+	 * @since 		Wordpress Boilerplate Theme 1.0
 	 *
 	 * We've included a number of helper functions that we use in every theme we produce.
 	 * The main one that is used in Starkers is Starkers_Utilities::add_slug_to_body_class(), this will add the page or post slug to the body class

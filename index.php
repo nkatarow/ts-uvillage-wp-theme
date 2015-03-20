@@ -9,8 +9,8 @@
  * Please see /external/starkers-utilities.php for info on Starkers_Utilities::get_template_parts()
  *
  * @package 	WordPress
- * @subpackage 	University Village Theme
- * @since 		University Village Theme 1.0
+ * @subpackage 	Wordpress Boilerplate Theme
+ * @since 		Wordpress Boilerplate Theme 1.0
  */
 ?>
 <?php Starkers_Utilities::get_template_parts( array( 'parts/shared/html-header', 'parts/shared/header' ) ); ?>

@@ -5,8 +5,8 @@
 	 * For more information on hooks, actions, and filters, see http://codex.wordpress.org/Plugin_API.
 	 *
  	 * @package 	WordPress
- 	 * @subpackage 	University Village Theme
- 	 * @since 		University Village Theme 1.0
+ 	 * @subpackage 	Wordpress Boilerplate Theme
+ 	 * @since 		Wordpress Boilerplate Theme 1.0
 	 */
 
 	/* ========================================================================================================================
